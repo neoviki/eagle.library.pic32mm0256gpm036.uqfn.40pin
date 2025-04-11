@@ -41,7 +41,8 @@ eagle-library/
 ├── img/
 │   ├── package40.png                         # UQFN-40 package image
 │   └── device40.png                          # Symbol/device image
-└── README.md                               # Project documentation
+├── docs/pin_mapping.pdf                      # Pin Mapping I use in my Project
+└── README.md    
 ```
 
 ## How to Use
