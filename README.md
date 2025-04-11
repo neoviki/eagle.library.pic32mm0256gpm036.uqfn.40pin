@@ -14,10 +14,10 @@ This Eagle library includes:
 ## Images
 
 ### Package Layout  
-![Image of the Package](img1/package.png)
+![Image of the Package](img/package.png)
 
 ### Symbol & Device View  
-![Image of the Device](img1/device.png)
+![Image of the Device](img/device.png)
 
 ## About PIC32MM0256GPM036
 
