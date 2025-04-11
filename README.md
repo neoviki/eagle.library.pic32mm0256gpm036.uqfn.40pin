@@ -14,10 +14,10 @@ This Eagle library includes:
 ## Images
 
 ### Package Layout  
-![Image of the Package](img/package1.png)
+![Image of the Package](img/package40.png)
 
 ### Symbol & Device View  
-![Image of the Device](img/device1.png)
+![Image of the Device](img/device40.png)
 
 ## About PIC32MM0256GPM036
 
@@ -39,8 +39,8 @@ This library was created as part of a larger project focused on building a tacti
 eagle-library/
 ├── lib/PIC32MM0256GPM036_UQFN_40PIN.lbr    # Eagle library file
 ├── img/
-│   ├── package.png                         # UQFN-40 package image
-│   └── device.png                          # Symbol/device image
+│   ├── package40.png                         # UQFN-40 package image
+│   └── device40.png                          # Symbol/device image
 └── README.md                               # Project documentation
 ```
 
